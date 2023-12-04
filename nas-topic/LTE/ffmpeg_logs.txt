@@ -1,0 +1,292 @@
+
+Time : 2023/09/13 11:14:57PM | ID : 472759718629605634 | Processing Time: -0.006s | Logs : 0s
+Time : 2023/09/13 11:15:42PM | ID : 472759777953579351 | Processing Time: -0.007s | Logs : -0.001s
+Time : 2023/09/13 11:16:51PM | ID : 472759855783346385 | Processing Time: -0.006s | Logs : -0.001s
+Time : 2023/09/13 11:17:15PM | ID : 472759882039165112 | Processing Time: -0.007s | Logs : 0s
+Time : 2023/09/13 11:17:46PM | ID : 472759915929403655 | Processing Time: 0s | Logs : 0s
+Time : 2023/09/13 11:21:10PM | ID : 472760157387096329 | Processing Time: -0.006s | Logs : 0s
+Time : 2023/09/13 11:22:37PM | ID : 472760257916436837 | Processing Time: -0.006s | Logs : 0s
+Time : 2023/09/13 11:23:47PM | ID : 472760335896936913 | Processing Time: -0.006s | Logs : 0s
+Time : 2023/09/13 11:24:26PM | ID : 472760386128183812 | Processing Time: -0.006s | Logs : 0s
+Time : 2023/09/13 11:26:11PM | ID : 472760513919975729 | Processing Time: -0.007s | Logs : -0.001s
+Time : 2023/09/13 11:29:45PM | ID : 472760778748329986 | Processing Time: -0.007s | Logs : 0s
+Time : 2023/09/13 11:35:43PM | ID : 472761234803392738 | Processing Time: -0.008s | Logs : -0.001s
+Time : 2023/09/13 11:43:55PM | ID : 472761491142475987 | Processing Time: -0.006s | Logs : 0s
+Time : 2023/09/13 11:45:19PM | ID : 472761562898629059 | Processing Time: -0.006s | Logs : 0s
+Time : 2023/09/13 11:47:05PM | ID : 472761693375037873 | Processing Time: -0.006s | Logs : 0s
+Time : 2023/09/13 11:48:41PM | ID : 472761834487939254 | Processing Time: -0.006s | Logs : 0s
+Time : 2023/09/14 01:37:56AM | ID : 472774181126668369 | Processing Time: -0.001s | Logs : 0s
+Time : 2023/09/14 01:38:50AM | ID : 472774272193396913 | Processing Time: -0.006s | Logs : 0s
+Time : 2023/09/14 01:39:27AM | ID : 472774333581230209 | Processing Time: -0.591s | Logs : 0s | Voice : 3.214s | WAV : -0.509s | MP3 : -0.584s
+Time : 2023/09/14 01:59:46AM | ID : 472776380217032753 | Processing Time: -0.004s | Logs : 0s
+Time : 2023/09/14 02:01:21AM | ID : 472776438115205217 | Processing Time: -0.004s | Logs : 0s
+Time : 2023/09/14 02:01:22AM | ID : 472776541160866017 | Processing Time: -0.004s | Logs : -0.001s
+Time : 2023/09/14 02:07:54AM | ID : 472777197972095057 | Processing Time: -0.005s | Logs : 0s
+Time : 2023/09/14 02:09:21AM | ID : 472777241542525009 | Processing Time: -0.003s | Logs : 0s
+Time : 2023/09/14 02:16:07AM | ID : 472778026313580561 | Processing Time: -0.004s | Logs : 0s
+Time : 2023/09/14 02:16:37AM | ID : 472778075907031121 | Processing Time: -0.004s | Logs : 0s
+Time : 2023/09/14 02:16:48AM | ID : 472778093606993953 | Processing Time: 0s | Logs : 0s
+Time : 2023/09/14 02:17:19AM | ID : 472778144860864646 | Processing Time: -0.813s | Logs : 0s | Voice : 7.728s | WAV : -0.667s | MP3 : -0.809s
+Time : 2023/09/14 02:22:18AM | ID : 472778648261755105 | Processing Time: -0.005s | Logs : 0s
+Time : 2023/09/14 02:22:31AM | ID : 472778668377636898 | Processing Time: -0.624s | Logs : 0s | Voice : 6.367s | WAV : -0.501s | MP3 : -0.62s
+Time : 2023/09/14 02:28:42AM | ID : 472779290728202242 | Processing Time: -0.592s | Logs : -0.001s | Voice : 2.395s | WAV : -0.526s | MP3 : -0.589s
+Time : 2023/09/14 02:30:19AM | ID : 472779452527935697 | Processing Time: -0.769s | Logs : 0s | Voice : 5.945s | WAV : -0.649s | MP3 : -0.765s
+Time : 2023/09/14 02:36:34AM | ID : 472780082176590002 | Processing Time: -0.592s | Logs : 0s | Voice : 2.586s | WAV : -0.522s | MP3 : -0.588s
+Time : 2023/09/14 02:49:35AM | ID : 472781393584193602 | Processing Time: -0.666s | Logs : 0s | Voice : 1.315s | WAV : -0.614s | MP3 : -0.662s
+Time : 2023/09/14 02:52:11AM | ID : 472781654571352162 | Processing Time: -0.547s | Logs : 0s | Voice : 3.092s | WAV : -0.47s | MP3 : -0.544s
+Time : 2023/09/14 02:54:32AM | ID : 472781892102914113 | Processing Time: -0.68s | Logs : 0s | Voice : 1.446s | WAV : -0.629s | MP3 : -0.677s
+Time : 2023/09/14 12:48:39PM | ID : 472841697291403571 | Processing Time: -0.754s | Logs : 0s | Voice : 4.98s | WAV : -0.527s | MP3 : -0.753s
+Time : 2023/09/14 12:50:20PM | ID : 472841866892017729 | Processing Time: -0.765s | Logs : 0s | Voice : 5.155s | WAV : -0.654s | MP3 : -0.759s
+Time : 2023/09/14 12:50:37PM | ID : 472841895245512918 | Processing Time: -0.603s | Logs : 0s | Voice : 5.706s | WAV : -0.484s | MP3 : -0.597s
+Time : 2023/09/14 12:51:36PM | ID : 472841994499260612 | Processing Time: -0.558s | Logs : -0.006s | Voice : 2.462s | WAV : -0.487s | MP3 : -0.552s
+Time : 2023/09/14 12:51:44PM | ID : 472842007518642230 | Processing Time: -0.804s | Logs : 0s | Voice : 5.805s | WAV : -0.685s | MP3 : -0.799s
+Time : 2023/09/14 12:52:23PM | ID : 472842072580685937 | Processing Time: -0.868s | Logs : -0.006s | Voice : 5.021s | WAV : -0.761s | MP3 : -0.861s
+Time : 2023/09/14 12:52:42PM | ID : 472842105783058824 | Processing Time: -0.594s | Logs : -0.001s | Voice : 4.587s | WAV : -0.492s | MP3 : -0.587s
+Time : 2023/09/14 01:04:36PM | ID : 472843303960707642 | Processing Time: -0.005s | Logs : 0s
+Time : 2023/09/14 01:04:46PM | ID : 472843321594085633 | Processing Time: -0.007s | Logs : -0.001s
+Time : 2023/09/14 01:04:58PM | ID : 472843339629593121 | Processing Time: -0.78s | Logs : 0s | Voice : 5.699s | WAV : -0.662s | MP3 : -0.774s
+Time : 2023/09/14 10:09:18PM | ID : 472898134486548599 | Processing Time: -0.613s | Logs : -0.001s | Voice : 4.13s | WAV : -0.518s | MP3 : -0.607s
+Time : 2023/09/14 10:09:28PM | ID : 472898152001700086 | Processing Time: -0.005s | Logs : 0s
+Time : 2023/09/14 10:09:39PM | ID : 472898170289652243 | Processing Time: -0.006s | Logs : -0.001s
+Time : 2023/09/15 01:19:39AM | ID : 472917296214966529 | Processing Time: -0.004s | Logs : 0s
+Time : 2023/09/15 01:19:54AM | ID : 472917321347236193 | Processing Time: -0.004s | Logs : 0s
+Time : 2023/09/15 01:20:09AM | ID : 472917347368697889 | Processing Time: -0.004s | Logs : -0.001s
+Time : 2023/09/15 01:23:17AM | ID : 472917662864244849 | Processing Time: -0.004s | Logs : -0.001s
+Time : 2023/09/15 01:23:33AM | ID : 472917689640681537 | Processing Time: -0.004s | Logs : 0s
+Time : 2023/09/15 01:31:45AM | ID : 472918515163594801 | Processing Time: -0.004s | Logs : -0.001s
+Time : 2023/09/15 01:37:47AM | ID : 472919122348081250 | Processing Time: -0.003s | Logs : 0s
+Time : 2023/09/15 01:38:30AM | ID : 472919191704830162 | Processing Time: -0.663s | Logs : 0s | Voice : 8.771s | WAV : -0.501s | MP3 : -0.66s
+Time : 2023/09/15 01:44:18AM | ID : 472919778001420498 | Processing Time: -0.004s | Logs : -0.001s
+Time : 2023/09/15 01:46:34AM | ID : 472920006003785841 | Processing Time: -0.003s | Logs : 0s
+Time : 2023/09/15 01:46:47AM | ID : 472920028518809809 | Processing Time: -0.004s | Logs : -0.001s
+Time : 2023/09/15 01:47:58AM | ID : 472920045061144802 | Processing Time: -0.003s | Logs : 0s
+Time : 2023/09/15 01:48:43AM | ID : 472920222916149442 | Processing Time: -0.004s | Logs : -0.001s
+Time : 2023/09/15 01:49:00AM | ID : 472920248921096289 | Processing Time: -0.725s | Logs : -0.001s | Voice : 4.469s | WAV : -0.627s | MP3 : -0.721s
+Time : 2023/09/15 01:49:19AM | ID : 472920181241806897 | Processing Time: -0.004s | Logs : -0.004s
+Time : 2023/09/15 01:49:37AM | ID : 472920211071697153 | Processing Time: -0.005s | Logs : -0.001s
+Time : 2023/09/15 01:50:56AM | ID : 472920443754905793 | Processing Time: -0.793s | Logs : -0.001s | Voice : 8.563s | WAV : -0.633s | MP3 : -0.789s
+Time : 2023/09/15 01:51:20AM | ID : 472920483953115249 | Processing Time: -0.755s | Logs : 0s | Voice : 14.312s | WAV : -0.506s | MP3 : -0.752s
+Time : 2023/09/15 01:52:56AM | ID : 472920645903581297 | Processing Time: -0.627s | Logs : 0s | Voice : 7.491s | WAV : -0.485s | MP3 : -0.623s
+Time : 2023/09/15 02:00:18AM | ID : 472921387959845057 | Processing Time: -0.003s | Logs : 0s
+Time : 2023/09/15 02:01:05AM | ID : 472921364807286946 | Processing Time: -0.004s | Logs : 0s
+Time : 2023/09/15 02:22:51AM | ID : 472923657095086369 | Processing Time: -0.653s | Logs : 0s | Voice : 7.316s | WAV : -0.511s | MP3 : -0.649s
+Time : 2023/09/15 02:23:12AM | ID : 472923692813779090 | Processing Time: -0.7s | Logs : 0s | Voice : 6.036s | WAV : -0.579s | MP3 : -0.696s
+Time : 2023/09/15 02:42:20AM | ID : 472925618938839153 | Processing Time: -0.77s | Logs : 0s | Voice : 4.415s | WAV : -0.674s | MP3 : -0.767s
+Time : 2023/09/15 03:00:38AM | ID : 472927461060378737 | Processing Time: -0.578s | Logs : 0s | Voice : 3.239s | WAV : -0.498s | MP3 : -0.574s
+Time : 2023/09/15 03:00:53AM | ID : 472927487333499105 | Processing Time: -0.59s | Logs : 0s | Voice : 3.832s | WAV : -0.504s | MP3 : -0.59s
+Time : 2023/09/15 03:12:25AM | ID : 472928646773342209 | Processing Time: -0.829s | Logs : 0s | Voice : 6.035s | WAV : -0.699s | MP3 : -0.825s
+Time : 2023/09/15 03:14:53AM | ID : 472928894992253073 | Processing Time: -0.615s | Logs : -0.001s | Voice : 3.229s | WAV : -0.535s | MP3 : -0.611s
+Time : 2023/09/15 03:15:42AM | ID : 472928977301274785 | Processing Time: -0.608s | Logs : 0s | Voice : 5.999s | WAV : -0.487s | MP3 : -0.604s
+Time : 2023/09/15 03:16:15AM | ID : 472929031911112753 | Processing Time: -0.757s | Logs : -0.001s | Voice : 5.376s | WAV : -0.646s | MP3 : -0.753s
+Time : 2023/09/15 03:19:06AM | ID : 472929319841693841 | Processing Time: -0.588s | Logs : 0s | Voice : 4.44s | WAV : -0.49s | MP3 : -0.584s
+Time : 2023/09/15 03:19:54AM | ID : 472929400691097665 | Processing Time: -0.625s | Logs : -0.001s | Voice : 6.045s | WAV : -0.503s | MP3 : -0.621s
+Time : 2023/09/15 03:22:22AM | ID : 472929647769157841 | Processing Time: -0.597s | Logs : 0s | Voice : 4.927s | WAV : -0.492s | MP3 : -0.593s
+Time : 2023/09/15 03:27:08AM | ID : 472930127496871937 | Processing Time: -0.754s | Logs : -0.001s | Voice : 3.727s | WAV : -0.666s | MP3 : -0.75s
+Time : 2023/09/15 03:27:41AM | ID : 472930184539668499 | Processing Time: -0.588s | Logs : -0.001s | Voice : 3.5s | WAV : -0.504s | MP3 : -0.584s
+Time : 2023/09/15 03:28:28AM | ID : 472930262334832642 | Processing Time: -0.604s | Logs : -0.001s | Voice : 3.829s | WAV : -0.515s | MP3 : -0.6s
+Time : 2023/09/15 03:29:15AM | ID : 472930341003722785 | Processing Time: -0.783s | Logs : 0s | Voice : 2.677s | WAV : -0.711s | MP3 : -0.78s
+Time : 2023/09/15 03:31:41AM | ID : 472930586286882947 | Processing Time: -0.575s | Logs : -0.001s | Voice : 2.59s | WAV : -0.504s | MP3 : -0.571s
+Time : 2023/09/15 03:32:39AM | ID : 472930683678359649 | Processing Time: -0.753s | Logs : 0s | Voice : 4.867s | WAV : -0.65s | MP3 : -0.749s
+Time : 2023/09/15 03:35:54AM | ID : 472931011169615954 | Processing Time: -0.588s | Logs : 0s | Voice : 6.963s | WAV : -0.453s | MP3 : -0.584s
+Time : 2023/09/15 03:39:30AM | ID : 472931374027243537 | Processing Time: -0.591s | Logs : -0.001s | Voice : 3.931s | WAV : -0.501s | MP3 : -0.588s
+Time : 2023/09/15 03:41:18AM | ID : 472931555472834627 | Processing Time: -0.567s | Logs : -0.001s | Voice : 4.03s | WAV : -0.477s | MP3 : -0.564s
+Time : 2023/09/15 03:43:51AM | ID : 472931810117419185 | Processing Time: -0.722s | Logs : 0s | Voice : 2.915s | WAV : -0.648s | MP3 : -0.719s
+Time : 2023/09/15 03:44:20AM | ID : 472931654810730545 | Processing Time: -0.689s | Logs : 0s | Voice : 3.88s | WAV : -0.604s | MP3 : -0.689s
+Time : 2023/09/15 03:45:13AM | ID : 472931846708527121 | Processing Time: -0.596s | Logs : 0s | Voice : 3.754s | WAV : -0.508s | MP3 : -0.592s
+Time : 2023/09/15 03:46:21AM | ID : 472932063486672899 | Processing Time: -0.574s | Logs : -0.001s | Voice : 4.284s | WAV : -0.479s | MP3 : -0.571s
+Time : 2023/09/15 03:53:35AM | ID : 472932789906833537 | Processing Time: -0.811s | Logs : -0.001s | Voice : 5.064s | WAV : -0.705s | MP3 : -0.807s
+Time : 2023/09/15 03:54:47AM | ID : 472932911508095201 | Processing Time: -0.545s | Logs : 0s | Voice : 4.831s | WAV : -0.443s | MP3 : -0.542s
+Time : 2023/09/15 03:56:23AM | ID : 472933073005576305 | Processing Time: -0.605s | Logs : 0s | Voice : 5.04s | WAV : -0.498s | MP3 : -0.602s
+Time : 2023/09/15 03:56:44AM | ID : 472933108741046273 | Processing Time: -0.497s | Logs : 0s | Voice : 3.864s | WAV : -0.409s | MP3 : -0.493s
+Time : 2023/09/15 03:58:36AM | ID : 472933295001698449 | Processing Time: -0.559s | Logs : 0s | Voice : 3.459s | WAV : -0.477s | MP3 : -0.555s
+Time : 2023/09/15 04:02:30AM | ID : 472933687705993297 | Processing Time: -0.607s | Logs : 0s | Voice : 4.397s | WAV : -0.509s | MP3 : -0.603s
+Time : 2023/09/15 04:04:53AM | ID : 472933928492597313 | Processing Time: -0.606s | Logs : -0.001s | Voice : 3.898s | WAV : -0.514s | MP3 : -0.603s
+Time : 2023/09/15 04:07:01AM | ID : 472934142015963234 | Processing Time: -0.63s | Logs : 0s | Voice : 7.618s | WAV : -0.487s | MP3 : -0.627s
+Time : 2023/09/15 02:33:46PM | ID : 472997235773931670 | Processing Time: -0.093s | Logs : 0s
+Time : 2023/09/15 02:35:52PM | ID : 472997446260359534 | Processing Time: -0.139s | Logs : 0s
+Time : 2023/09/15 02:38:11PM | ID : 472997680839918274 | Processing Time: -0.077s | Logs : 0s
+Time : 2023/09/15 02:38:19PM | ID : 472997693976216209 | Processing Time: -0.094s | Logs : 0s
+Time : 2023/09/15 02:38:28PM | ID : 472997707548983410 | Processing Time: -0.099s | Logs : 0s
+Time : 2023/09/15 02:38:35PM | ID : 472997719628316676 | Processing Time: -0.112s | Logs : -0.006s
+Time : 2023/09/15 02:39:52PM | ID : 472997849165464292 | Processing Time: -0.144s | Logs : 0s
+Time : 2023/09/15 02:40:06PM | ID : 472997871193948434 | Processing Time: -0.179s | Logs : 0s
+Time : 2023/09/15 02:40:14PM | ID : 472997885873488004 | Processing Time: -0.103s | Logs : 0s
+Time : 2023/09/15 02:40:47PM | ID : 472997941054275890 | Processing Time: -0.099s | Logs : 0s
+Time : 2023/09/15 02:54:31PM | ID : 472999323328839925 | Processing Time: -0.073s | Logs : 0s
+Time : 2023/09/15 02:54:40PM | ID : 472999338663477633 | Processing Time: -0.077s | Logs : 0s
+Time : 2023/09/15 02:54:56PM | ID : 472999364064182385 | Processing Time: -0.691s | Logs : -0.001s | Voice : 6.168s | WAV : -0.532s | MP3 : -0.686s
+Time : 2023/09/16 02:30:42PM | ID : 473141882051362849 | Processing Time: -0.157s | Logs : -0.001s
+Time : 2023/09/16 02:30:48PM | ID : 473141891312386369 | Processing Time: -0.17s | Logs : -0.004s
+Time : 2023/09/16 02:30:56PM | ID : 473141905857970387 | Processing Time: -0.142s | Logs : 0s
+Time : 2023/09/16 02:31:37PM | ID : 473141974141763699 | Processing Time: -0.063s | Logs : 0s
+Time : 2023/09/16 02:32:25PM | ID : 473142053531550101 | Processing Time: -0.13s | Logs : 0s
+Time : 2023/09/16 02:32:55PM | ID : 473142104366514659 | Processing Time: -0.116s | Logs : 0s
+Time : 2023/09/16 02:32:57PM | ID : 473142107788804213 | Processing Time: -0.105s | Logs : -0.001s
+Time : 2023/09/16 02:32:59PM | ID : 473142111026807169 | Processing Time: -0.107s | Logs : 0s
+Time : 2023/09/16 02:33:03PM | ID : 473142118274564517 | Processing Time: -0.167s | Logs : 0s
+Time : 2023/09/16 02:34:23PM | ID : 473142251754094769 | Processing Time: -0.104s | Logs : 0s
+Time : 2023/09/16 02:35:30PM | ID : 473142365217882355 | Processing Time: -0.069s | Logs : 0s
+Time : 2023/09/16 02:35:43PM | ID : 473142385887936641 | Processing Time: -0.098s | Logs : 0s
+Time : 2023/09/17 12:18:55PM | ID : 473273570916041121 | Processing Time: -0.247s | Logs : -0.001s
+Time : 2023/09/17 12:19:02PM | ID : 473273582794309633 | Processing Time: -0.146s | Logs : -0.001s
+Time : 2023/09/17 12:19:10PM | ID : 473273595880538497 | Processing Time: -0.104s | Logs : 0s
+Time : 2023/09/17 12:19:19PM | ID : 473273610929963061 | Processing Time: -0.119s | Logs : 0s
+Time : 2023/09/17 12:21:26PM | ID : 473273821550870593 | Processing Time: -1.46s | Logs : -0.001s | Voice : 22.819s | WAV : -0.63s | MP3 : -1.454s
+Time : 2023/09/17 12:22:29PM | ID : 473273927784202625 | Processing Time: -0.824s | Logs : -0.001s | Voice : 18.898s | WAV : -0.497s | MP3 : -0.818s
+Time : 2023/09/17 12:23:15PM | ID : 473274005294940660 | Processing Time: -0.758s | Logs : -0.001s | Voice : 13.805s | WAV : -0.514s | MP3 : -0.752s
+Time : 2023/09/29 01:32:38PM | ID : 475020449189986312 | Processing Time: -1.994s | Logs : -0.002s | Voice : 32.701s | WAV : -0.529s | MP3 : -1.993s
+Time : 2023/09/29 01:33:39PM | ID : 475020449189986312 | Processing Time: -0.578s | Logs : -0.001s | Voice : 32.701s | WAV : -0.552s | MP3 : -0.578s
+Time : 2023/09/29 07:09:25PM | ID : 475054353460232505 | Processing Time: -0.745s | Logs : -0.007s | Voice : 8.787s | WAV : -0.581s | MP3 : -0.739s
+Time : 2023/10/09 07:10:13PM | ID : 476503987684901380 | Processing Time: -0.105s | Logs : -0.001s
+Time : 2023/10/09 07:10:23PM | ID : 476504003808067780 | Processing Time: -0.096s | Logs : 0s
+Time : 2023/10/09 07:10:31PM | ID : 476504016357425490 | Processing Time: -0.077s | Logs : 0s
+Time : 2023/10/09 07:11:12PM | ID : 476504086049718773 | Processing Time: -0.103s | Logs : -0.001s
+Time : 2023/10/09 07:11:25PM | ID : 476504107776213527 | Processing Time: -0.108s | Logs : 0s
+Time : 2023/10/09 07:12:14PM | ID : 476504176830972035 | Processing Time: -8.37s | Logs : 0s | Voice : 25.778s | WAV : -7.404s | MP3 : -8.364s
+Time : 2023/10/09 07:13:09PM | ID : 476504176830972035 | Processing Time: -0.852s | Logs : -0.001s | Voice : 25.778s | WAV : -0.827s | MP3 : -0.852s
+Time : 2023/10/09 07:17:56PM | ID : 476504763061240116 | Processing Time: -0.093s | Logs : -0.001s
+Time : 2023/10/09 07:18:05PM | ID : 476504779049664562 | Processing Time: -0.116s | Logs : -0.001s
+Time : 2023/10/09 07:18:31PM | ID : 476504822083486051 | Processing Time: -0.124s | Logs : 0s
+Time : 2023/10/09 07:20:59PM | ID : 476505071056847030 | Processing Time: -0.163s | Logs : 0s
+Time : 2023/10/09 07:20:59PM | ID : 476505054463918418 | Processing Time: -10.109s | Logs : 0s
+Time : 2023/10/09 07:21:21PM | ID : 476505107648217169 | Processing Time: -0.158s | Logs : 0s
+Time : 2023/10/09 07:21:52PM | ID : 476505054463918418 | Processing Time: -0.146s | Logs : 0s
+Time : 2023/10/09 07:23:40PM | ID : 476505340297347160 | Processing Time: -0.111s | Logs : -0.001s
+Time : 2023/10/10 01:28:32AM | ID : 476542067485704582 | Processing Time: -0.664s | Logs : 0s | Voice : 2.429s | WAV : -0.589s | MP3 : -0.659s
+Time : 2023/10/11 02:51:40PM | ID : 476767861818786225 | Processing Time: -1.005s | Logs : -0.002s | Voice : 297.482s | WAV : -0.512s | MP3 : -1.004s
+Time : 2023/10/11 02:53:08PM | ID : 476768016303391153 | Processing Time: -0.625s | Logs : -0.001s | Voice : 3.233s | WAV : -0.507s | MP3 : -0.624s
+Time : 2023/10/11 02:53:48PM | ID : 476768076668076470 | Processing Time: -4.597s | Logs : 0s | Voice : 297.482s | WAV : -0.718s | MP3 : -4.59s
+Time : 2023/10/11 02:54:46PM | ID : 476768076668076470 | Processing Time: -0.773s | Logs : 0s | Voice : 297.482s | WAV : -0.748s | MP3 : -0.772s
+Time : 2023/10/26 08:00:49PM | ID : 478973318180372563 | Processing Time: -0.156s | Logs : 0s
+Time : 2023/10/26 11:23:11PM | ID : 478993689713312036 | Processing Time: -0.135s | Logs : -0.001s
+Time : 2023/10/26 11:23:24PM | ID : 478993710047559970 | Processing Time: -0.109s | Logs : -0.001s
+Time : 2023/10/26 11:23:38PM | ID : 478993733484806298 | Processing Time: -0.124s | Logs : 0s
+Time : 2023/10/27 05:32:05PM | ID : 479103301674598417 | Processing Time: -0.122s | Logs : 0s
+Time : 2023/10/27 09:31:00PM | ID : 479127351881105779 | Processing Time: -0.156s | Logs : 0s
+Time : 2023/10/27 09:31:15PM | ID : 479127375570534595 | Processing Time: -0.178s | Logs : 0s
+Time : 2023/10/28 07:31:13PM | ID : 479260248453415154 | Processing Time: -0.188s | Logs : -0.015s
+Time : 2023/11/04 06:16:56PM | ID : 480267454842143058 | Processing Time: -1.207s | Logs : 0s | Voice : 5.637s | WAV : -0.602s | MP3 : -1.204s
+Time : 2023/11/04 06:17:10PM | ID : 480267479655383089 | Processing Time: -0.135s | Logs : -0.001s
+Time : 2023/11/04 06:18:12PM | ID : 480267584680755222 | Processing Time: -0.118s | Logs : -0.004s
+Time : 2023/11/04 06:19:33PM | ID : 480267719385285122 | Processing Time: -0.551s | Logs : -0.001s | Voice : 4.559s | WAV : -0.453s | MP3 : -0.548s
+Time : 2023/11/04 06:20:41PM | ID : 480267834409615505 | Processing Time: -0.157s | Logs : -0.001s
+Time : 2023/11/04 06:22:40PM | ID : 480268034259812449 | Processing Time: -0.129s | Logs : -0.001s
+Time : 2023/11/09 03:13:04PM | ID : 480973724481749489 | Processing Time: -0.15s | Logs : 0s
+Time : 2023/11/10 08:05:46PM | ID : 481148143136932418 | Processing Time: -0.129s | Logs : -0.001s
+Time : 2023/11/10 08:26:27PM | ID : 481150224266952882 | Processing Time: -0.68s | Logs : 0s | Voice : 5.849s | WAV : -0.563s | MP3 : -0.68s
+Time : 2023/11/12 03:31:48PM | ID : 481410476098715746 | Processing Time: -0.185s | Logs : 0s
+Time : 2023/11/14 12:19:34AM | ID : 481608556165464097 | Processing Time: -0.227s | Logs : 0s
+Time : 2023/11/14 12:19:50AM | ID : 481608583512326593 | Processing Time: -0.091s | Logs : -0.001s
+Time : 2023/11/14 12:20:05AM | ID : 481608608845922689 | Processing Time: -0.088s | Logs : -0.001s
+Time : 2023/11/14 12:25:50AM | ID : 481609188179968178 | Processing Time: -0.115s | Logs : -0.001s
+Time : 2023/11/14 12:26:08AM | ID : 481609218278293761 | Processing Time: -0.106s | Logs : -0.001s
+Time : 2023/11/14 12:26:43AM | ID : 481609276663005473 | Processing Time: -0.092s | Logs : 0s
+Time : 2023/11/14 12:29:04AM | ID : 481609512634548353 | Processing Time: -0.101s | Logs : -0.006s
+Time : 2023/11/14 12:31:33AM | ID : 481609763890135313 | Processing Time: -0.102s | Logs : 0s
+Time : 2023/11/14 05:14:49PM | ID : 481710755566321846 | Processing Time: -0.133s | Logs : 0s
+Time : 2023/11/14 05:35:05PM | ID : 481712792756551880 | Processing Time: -1.111s | Logs : 0s | Voice : 7.066s | WAV : -0.504s | MP3 : -1.111s
+Time : 2023/11/14 05:36:18PM | ID : 481712918417900278 | Processing Time: -0.147s | Logs : 0s
+Time : 2023/11/14 06:25:32PM | ID : 481717874424283384 | Processing Time: -0.112s | Logs : -0.001s
+Time : 2023/11/14 08:08:17PM | ID : 481728218383516243 | Processing Time: -0.131s | Logs : 0s
+Time : 2023/11/14 08:08:24PM | ID : 481728229020270913 | Processing Time: -0.105s | Logs : -0.001s
+Time : 2023/11/14 08:08:30PM | ID : 481728238449328247 | Processing Time: -0.114s | Logs : 0s
+Time : 2023/11/14 08:21:59PM | ID : 481729596698394738 | Processing Time: -0.135s | Logs : -0.001s
+Time : 2023/11/14 08:23:30PM | ID : 481729747844334089 | Processing Time: -0.121s | Logs : -0.001s
+Time : 2023/11/14 08:26:00PM | ID : 481730000157409801 | Processing Time: -0.129s | Logs : 0s
+Time : 2023/11/14 08:26:11PM | ID : 481730018947891560 | Processing Time: -0.158s | Logs : 0s
+Time : 2023/11/14 08:26:19PM | ID : 481730033443668615 | Processing Time: -0.133s | Logs : -0.001s
+Time : 2023/11/14 08:26:55PM | ID : 481730092213731901 | Processing Time: -0.129s | Logs : 0s
+Time : 2023/11/14 09:01:55PM | ID : 481733616721461352 | Processing Time: -0.132s | Logs : 0s
+Time : 2023/11/14 09:02:03PM | ID : 481733629891314356 | Processing Time: -0.128s | Logs : 0s
+Time : 2023/11/15 11:05:55AM | ID : 481818575217361043 | Processing Time: -0.131s | Logs : 0s
+Time : 2023/11/15 11:06:07AM | ID : 481818595803529346 | Processing Time: -0.094s | Logs : -0.006s
+Time : 2023/11/22 03:44:45PM | ID : 482861330832556291 | Processing Time: -0.102s | Logs : 0s
+Time : 2023/11/22 03:46:53PM | ID : 482861545715138565 | Processing Time: -0.104s | Logs : -0.001s
+Time : 2023/11/22 03:47:10PM | ID : 482861573648941329 | Processing Time: -0.106s | Logs : -0.001s
+Time : 2023/11/22 03:47:24PM | ID : 482861597270999498 | Processing Time: -0.108s | Logs : 0s
+Time : 2023/11/22 05:24:11PM | ID : 482871340253839506 | Processing Time: -0.104s | Logs : 0s
+Time : 2023/11/22 11:09:34PM | ID : 482906107711848593 | Processing Time: -0.102s | Logs : 0s
+Time : 2023/11/22 11:10:07PM | ID : 482906162153652532 | Processing Time: -0.113s | Logs : 0s
+Time : 2023/11/22 11:10:45PM | ID : 482906225353949315 | Processing Time: -0.096s | Logs : 0s
+Time : 2023/11/22 11:13:26PM | ID : 482906496423165975 | Processing Time: -0.006s | Logs : 0s
+Time : 2023/11/22 11:26:25PM | ID : 482907803334738273 | Processing Time: -0.005s | Logs : 0s
+Time : 2023/11/22 11:27:06PM | ID : 482907872506675447 | Processing Time: -0.104s | Logs : 0s
+Time : 2023/11/22 11:30:47PM | ID : 482908243367035139 | Processing Time: -0.105s | Logs : 0s
+Time : 2023/11/22 11:36:15PM | ID : 482908792703942770 | Processing Time: -0.115s | Logs : 0s
+Time : 2023/11/22 11:39:22PM | ID : 482909106337218753 | Processing Time: -0.095s | Logs : -0.001s
+Time : 2023/11/22 11:41:20PM | ID : 482909305499550195 | Processing Time: -0.096s | Logs : -0.001s
+Time : 2023/11/22 11:42:29PM | ID : 482909419752653250 | Processing Time: -0.099s | Logs : 0s
+Time : 2023/11/22 11:50:59PM | ID : 482910276279599569 | Processing Time: -0.006s | Logs : 0s
+Time : 2023/11/22 11:54:44PM | ID : 482910653062578242 | Processing Time: -0.006s | Logs : -0.001s
+Time : 2023/11/23 01:14:35PM | ID : 482991169304526946 | Processing Time: -0.092s | Logs : -0.001s
+Time : 2023/11/23 01:14:44PM | ID : 482991184688447730 | Processing Time: -0.006s | Logs : 0s
+Time : 2023/11/23 01:15:01PM | ID : 482991210256924724 | Processing Time: -1.068s | Logs : 0s | Voice : 2.915s | WAV : -0.719s | MP3 : -1.063s
+Time : 2023/11/23 03:01:15PM | ID : 483001907393593444 | Processing Time: -0.136s | Logs : 0s
+Time : 2023/11/23 03:01:26PM | ID : 483001924808605954 | Processing Time: -0.007s | Logs : 0s
+Time : 2023/11/23 03:01:37PM | ID : 483001944722899298 | Processing Time: -0.007s | Logs : 0s
+Time : 2023/11/23 10:43:30PM | ID : 483048438649848034 | Processing Time: -0.078s | Logs : 0s
+Time : 2023/11/23 11:42:29PM | ID : 483054376475689121 | Processing Time: -0.117s | Logs : 0s
+Time : 2023/11/23 11:43:13PM | ID : 483054449389470210 | Processing Time: -0.079s | Logs : 0s
+Time : 2023/11/23 11:45:08PM | ID : 483054642679251010 | Processing Time: -0.006s | Logs : 0s
+Time : 2023/11/23 11:52:34PM | ID : 483055388812902466 | Processing Time: -1.722s | Logs : 0s
+Time : 2023/11/23 11:53:32PM | ID : 483055488536150066 | Processing Time: -0.115s | Logs : 0s
+Time : 2023/11/23 11:53:38PM | ID : 483055498032316534 | Processing Time: -0.14s | Logs : 0s
+Time : 2023/11/25 06:16:44PM | ID : 483311495632388289 | Processing Time: -0.099s | Logs : 0s
+Time : 2023/11/25 06:17:18PM | ID : 483311551836062034 | Processing Time: -0.137s | Logs : 0s
+Time : 2023/11/25 11:22:06PM | ID : 483342234343964918 | Processing Time: -0.106s | Logs : 0s
+Time : 2023/11/25 11:32:55PM | ID : 483343322699006179 | Processing Time: -0.285s | Logs : -0.001s
+Time : 2023/11/26 12:08:26AM | ID : 483346898796151073 | Processing Time: -0.152s | Logs : 0s
+Time : 2023/11/26 12:08:40AM | ID : 483346921999040530 | Processing Time: -0.195s | Logs : -0.001s
+Time : 2023/11/26 12:55:25PM | ID : 483424104725610721 | Processing Time: -0.178s | Logs : -0.001s
+Time : 2023/11/26 01:01:37PM | ID : 483424729207144978 | Processing Time: -0.105s | Logs : -0.001s
+Time : 2023/11/26 01:14:23PM | ID : 483426014056939702 | Processing Time: -0.134s | Logs : 0s
+Time : 2023/11/26 01:14:38PM | ID : 483426039960961459 | Processing Time: -0.252s | Logs : 0s
+Time : 2023/11/26 01:15:27PM | ID : 483426120759771394 | Processing Time: -0.322s | Logs : 0s
+Time : 2023/11/26 01:15:31PM | ID : 483426129651695955 | Processing Time: -0.003s | Logs : 0s
+Time : 2023/11/26 01:16:12PM | ID : 483426198068920370 | Processing Time: -0.284s | Logs : -0.001s
+Time : 2023/11/26 01:18:59PM | ID : 483426477644448137 | Processing Time: -0.27s | Logs : -0.001s
+Time : 2023/11/26 01:19:00PM | ID : 483426480228139220 | Processing Time: -0.005s | Logs : -0.001s
+Time : 2023/11/26 01:36:37PM | ID : 483428252103737763 | Processing Time: -0.303s | Logs : 0s
+Time : 2023/11/26 01:36:39PM | ID : 483428256298303652 | Processing Time: -0.149s | Logs : 0s
+Time : 2023/11/26 01:36:42PM | ID : 483428260710711746 | Processing Time: -0.004s | Logs : 0s
+Time : 2023/11/26 01:37:17PM | ID : 483428320168378886 | Processing Time: -0.004s | Logs : -0.001s
+Time : 2023/11/26 02:12:03PM | ID : 483431819527061762 | Processing Time: -0.218s | Logs : -0.001s
+Time : 2023/11/26 02:12:05PM | ID : 483431822814872008 | Processing Time: -0.281s | Logs : -0.001s
+Time : 2023/11/26 02:12:08PM | ID : 483431828603011568 | Processing Time: 0s | Logs : 0s
+Time : 2023/11/26 02:13:46PM | ID : 483431992936366417 | Processing Time: -0.005s | Logs : -0.001s
+Time : 2023/11/26 02:15:25PM | ID : 483432158460117435 | Processing Time: -0.228s | Logs : 0s
+Time : 2023/11/26 02:15:26PM | ID : 483432160188432754 | Processing Time: -0.237s | Logs : -0.001s
+Time : 2023/11/26 02:15:29PM | ID : 483432164986716545 | Processing Time: -0.004s | Logs : -0.001s
+Time : 2023/11/26 02:18:13PM | ID : 483432439646519601 | Processing Time: -0.004s | Logs : -0.001s
+Time : 2023/11/26 06:13:14PM | ID : 483456098457354467 | Processing Time: -0.17s | Logs : 0s
+Time : 2023/11/26 06:13:22PM | ID : 483456111022703095 | Processing Time: -0.169s | Logs : 0s
+Time : 2023/11/26 06:13:29PM | ID : 483456122918535331 | Processing Time: -0.004s | Logs : 0s
+Time : 2023/11/26 06:13:31PM | ID : 483455924913569877 | Processing Time: -0.249s | Logs : 0s
+Time : 2023/11/26 06:13:45PM | ID : 483455947763876214 | Processing Time: -0.153s | Logs : -0.001s
+Time : 2023/11/26 06:13:59PM | ID : 483456173015040387 | Processing Time: -0.162s | Logs : 0s
+Time : 2023/11/26 06:14:04PM | ID : 483456182259286482 | Processing Time: -0.005s | Logs : -0.001s
+Time : 2023/11/26 06:14:48PM | ID : 483456255693422898 | Processing Time: -0.003s | Logs : 0s
+Time : 2023/11/26 06:15:09PM | ID : 483456291109863617 | Processing Time: -0.004s | Logs : 0s
+Time : 2023/11/26 06:16:00PM | ID : 483456376606818675 | Processing Time: -0.004s | Logs : 0s
+Time : 2023/11/26 06:17:58PM | ID : 483456573990240550 | Processing Time: -0.242s | Logs : 0s
+Time : 2023/11/26 06:18:05PM | ID : 483456585398485300 | Processing Time: -0.311s | Logs : 0s
+Time : 2023/11/26 06:18:06PM | ID : 483456587764859155 | Processing Time: -0.186s | Logs : 0s
+Time : 2023/11/26 06:18:08PM | ID : 483456591102738636 | Processing Time: -0.004s | Logs : 0s
+Time : 2023/11/26 06:42:29PM | ID : 483459042506178962 | Processing Time: -0.122s | Logs : -0.001s
+Time : 2023/11/26 06:42:30PM | ID : 483459044468850948 | Processing Time: -0.298s | Logs : 0s
+Time : 2023/11/26 06:43:04PM | ID : 483459099934851186 | Processing Time: -0.167s | Logs : 0s
+Time : 2023/11/26 06:43:11PM | ID : 483459111946551491 | Processing Time: -0.161s | Logs : 0s
+Time : 2023/11/27 12:11:43AM | ID : 483492183883382834 | Processing Time: -0.202s | Logs : -0.001s
+Time : 2023/11/27 12:11:47AM | ID : 483492189956473377 | Processing Time: -0.219s | Logs : 0s
+Time : 2023/11/27 12:12:15AM | ID : 483492236462915666 | Processing Time: -0.227s | Logs : 0s
+Time : 2023/11/27 08:11:07PM | ID : 483612920111431857 | Processing Time: -0.111s | Logs : 0s
+Time : 2023/11/27 08:14:46PM | ID : 483613286458458564 | Processing Time: -0.279s | Logs : 0s
+Time : 2023/11/27 08:14:48PM | ID : 483613291542216883 | Processing Time: -0.004s | Logs : 0s
+Time : 2023/11/29 09:04:22PM | ID : 483908190070112259 | Processing Time: -0.307s | Logs : 0s
+Time : 2023/11/29 09:04:33PM | ID : 483908208239313475 | Processing Time: -0.114s | Logs : 0s
+Time : 2023/11/29 09:04:37PM | ID : 483908214715843185 | Processing Time: -0.259s | Logs : -0.001s
+Time : 2023/11/29 09:04:47PM | ID : 483908231191331225 | Processing Time: -0.174s | Logs : 0s
+Time : 2023/11/29 09:27:41PM | ID : 483910536883602077 | Processing Time: -0.143s | Logs : -0.001s
+Time : 2023/11/30 10:55:17PM | ID : 484064310285566005 | Processing Time: -0.159s | Logs : 0s
+Time : 2023/12/02 10:20:26PM | ID : 484350709241217074 | Processing Time: -2.369s | Logs : 0s | Voice : 2.897s | WAV : -0.541s | MP3 : -2.369s
+Time : 2023/12/02 10:21:27PM | ID : 484350709241217074 | Processing Time: -0.584s | Logs : 0s | Voice : 2.897s | WAV : -0.56s | MP3 : -0.584s
