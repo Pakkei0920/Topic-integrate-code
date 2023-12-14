@@ -27,14 +27,13 @@ if (!$conn) {
     $esp_pm25 = $_POST['esp_pm25'];
     $esp_pm100 = $_POST['esp_pm100'];
 // 台灣中央氣象局 API 
-$cwb_url = 'https://opendata.cwb.gov.tw/api/v1/rest/datastore/O-A0001-001?Authorization=CWB-9164C5ED-C227-4AD9-947B-3EA579B94742&stationId=C0V810';	
+$cwb_url = 'https://opendata.cwb.gov.tw/api/v1/rest/datastore/O-A0001-001?Authorization=CWB-9164C5ED-C227-4AD9-947B-3EA579B94742&format=JSON&StationId=C0V810&WeatherElement=AirTemperature,RelativeHumidity&GeoInfo=';	
 $cwb_response = file_get_contents($cwb_url);	// 發送 GET 請求並取得回應
     // 解析 JSON 回應
       $cwb_data = json_decode($cwb_response, true);   
-      $cwb_station = $cwb_data['records']['location'][0];	// 取得觀測站資料
-      $cwb_temp = $cwb_station['weatherElement'][3]['elementValue']; // 取得目前的溫度
-      $cwb_humd = $cwb_station['weatherElement'][4]['elementValue']; // 取得目前的濕度
-      $cwb_humd = $cwb_humd * 100; //較正目前的濕度
+      $cwb_temp = $cwb_data['records']['Station'][0]['WeatherElement']['AirTemperature'];// 取得目前的溫度
+      $cwb_humd = $cwb_data['records']['Station'][0]['WeatherElement']['RelativeHumidity']; // 取得目前的濕度
+   
       if ($cwb_humd == -9900){$cwb_humd = NULL;}
       if ($cwb_temp == -99){$cwb_temp = NULL;}
 
@@ -46,12 +45,11 @@ $epa_response = file_get_contents($epa_url);	// 發送 GET 請求並取得回應
       $epa_pm25 = $epa_data['records'][0]['concentration']; //細懸浮微粒PM2.5
       $epa_pm10 = $epa_data['records'][2]['concentration']; //懸浮微粒PM10
 
-$mathsql= $dht22_temp1*$dht22_humd1*$dht22_temp2*$dht22_humd2*$scd40_temp*$scd40_humd*$scd40_co2*$bmp_temp*$bmp_pressure*$bmp_altitude*$esp_pm1*$esp_pm25*$esp_pm100*$cwb_temp*$cwb_humd*$epa_pm25*$epa_pm10;//防止數據出現"0"
 
-if ($mathsql != 0 ){
 $sql = "INSERT INTO sensor_data (dht22_temp1, dht22_humd1, dht22_temp2, dht22_humd2, scd40_temp, scd40_humd, scd40_co2,
     bmp_temp, bmp_pressure, bmp_altitude, esp_pm1, esp_pm25, esp_pm100,cwb_temp, cwb_humd, epa_pm25, epa_pm10) VALUES ('$dht22_temp1', '$dht22_humd1', '$dht22_temp2', '$dht22_humd2', '$scd40_temp', '$scd40_humd', '$scd40_co2','$bmp_temp', '$bmp_pressure', '$bmp_altitude', '$esp_pm1', '$esp_pm25', '$esp_pm100','$cwb_temp', '$cwb_humd', '$epa_pm25', '$epa_pm10')";
-    echo $sql;
+
+echo $sql;
 
     $maxtemp = ($dht22_temp1+$dht22_temp2+$bmp_temp+$scd40_temp)/4;
     $maxhumd = ($dht22_humd1+$dht22_humd2+$scd40_humd)/3;
@@ -103,5 +101,5 @@ if (mysqli_query($conn, $sql)) {
   echo "Error: " . $sql . "<br>" . mysqli_error($conn);
 }
 mysqli_close($conn);
-}
+
 ?>
